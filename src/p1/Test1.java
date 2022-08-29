@@ -8,7 +8,7 @@ public class Test1 {
 
 
         System.out.println(solution("qewqevet", "vet"));
-
+        System.out.println("cba");
 
     }
 
